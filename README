@@ -1,0 +1,10 @@
+Screenshot2Docx:
+ - Simple java tool to take screenshot and append it to word document.
+ - On clicking screenshot button, the tool disappears,, takes screenshot and reappears again
+Feautures :
+ - Takes Full ScreenShot and append it to the word document.
+ - Ability to add text to the word document via text box.
+ - Ability to capture part of the screen. Screen Area is the area of the tool itself. Resize the tool window to take only that part of the background screen
+ - Tool is included with Image Editor for highlighting and adding text to the image itself.
+How To Run :
+ - The maven build produces an executable jar.
